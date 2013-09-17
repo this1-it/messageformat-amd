@@ -1,0 +1,11 @@
+{
+  "root": {
+    "FORM_LOGIN_LEGEND": "Login Form",
+    "FORM_LOGIN_USERNAME": "Username",
+    "FORM_LOGIN_PASSWORD": "Password",
+    "FORM_LOGIN_SUBMIT": "Log in",
+    "LANG_ENGLISH": "In English",
+    "LANG_POLISH": "In Polish"
+  },
+  "pl": true
+}

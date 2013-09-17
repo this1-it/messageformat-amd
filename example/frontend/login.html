@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>messageformat-amd</title>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body>
+<fieldset>
+  <legend data-i18n>FORM_LOGIN_LEGEND</legend>
+  <p>
+    <label for="username" data-i18n>FORM_LOGIN_USERNAME</label>
+    <input id="username" type="text">
+  </p>
+  <p>
+    <label for="password" data-i18n>FORM_LOGIN_PASSWORD</label>
+    <input id="password" type="password">
+  </p>
+  <p>
+    <button data-i18n>FORM_LOGIN_SUBMIT</button>
+  </p>
+</fieldset>
+<p>
+  <a href="login.html?en" data-i18n>LANG_ENGLISH</a>
+  |
+  <a href="login.html?pl" data-i18n>LANG_POLISH</a>
+</p>
+<script src="config.js"></script>
+<script src="vendor/require/require.js" data-main="main"></script>
+</body>
+</html>
