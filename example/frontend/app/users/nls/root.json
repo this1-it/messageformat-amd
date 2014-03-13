@@ -1,5 +1,6 @@
 {
   "root": {
+    "THANKS": "Thanks for checking out {project}!",
     "FORM_LOGIN_LEGEND": "Login Form",
     "FORM_LOGIN_USERNAME": "Username",
     "FORM_LOGIN_PASSWORD": "Password",

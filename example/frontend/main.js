@@ -9,13 +9,13 @@ require(['i18n!app/nls/users'], function(usersNls)
   for (var i = 0; i < els.length; ++i)
   {
     var el = els[i];
-    var key = el.getAttribute('data-i18n');
+    var key = el.dataset.i18n;
 
     if (key === '')
     {
       key = el.innerText.trim();
     }
 
-    el.innerText = usersNls[key]();
+    el.innerText = usersNls[key](el.dataset);
   }
 });

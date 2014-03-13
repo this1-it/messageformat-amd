@@ -14,9 +14,8 @@
   "unused": true,
   "indent": 2,
   "maxdepth": 4,
-  "maxparams": 4,
   "maxstatements": 20,
-  "maxlen": 80,
+  "maxlen": 120,
   "laxbreak": true,
   "globalstrict": true,
   "white": false
