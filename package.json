@@ -21,7 +21,7 @@
     "messageformat": "~0.1.8"
   },
   "peerDependencies": {
-    "connect": "~2.14.0"
+    "connect": "2.x"
   },
   "devDependencies": {
     "should": "~3.1.3",
