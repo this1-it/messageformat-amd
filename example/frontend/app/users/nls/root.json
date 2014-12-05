@@ -6,7 +6,10 @@
     "FORM_LOGIN_PASSWORD": "Password",
     "FORM_LOGIN_SUBMIT": "Log in",
     "LANG_ENGLISH": "In English",
-    "LANG_POLISH": "In Polish"
+    "LANG_POLISH": "In Polish",
+    "TESTS": "Tests",
+    "GENDER": "{gender, select, male{He} female{She} other{They}} liked this.",
+    "LIKES": "You have {likes, plural, one{one like} zero{no likes} other{# likes}}."
   },
   "pl": true
 }

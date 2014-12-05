@@ -5,5 +5,8 @@
   "FORM_LOGIN_PASSWORD": "Hasło",
   "FORM_LOGIN_SUBMIT": "Zaloguj się",
   "LANG_ENGLISH": "Po angielsku",
-  "LANG_POLISH": "Po polsku"
+  "LANG_POLISH": "Po polsku",
+  "TESTS": "Testy",
+  "GENDER": "{gender, select, male{On polubił} female{Ona polubiła} other{Oni polubili}} to.",
+  "LIKES": "Masz {likes, plural, one{jednego lajka} zero{zero lajków} few{# lajki} other{# lajków}}."
 }
