@@ -4,18 +4,20 @@
   "description": "Connect/Express middleware to serve MessageFormat JSON files as AMD JS files to the browser.",
   "keywords": ["messageformat", "amd", "connect", "middleware"],
   "license": "MIT",
-  "homepage": "https://github.com/morkai/messageformat-amd",
+  "homepage": "https://github.com/tisone/messageformat-amd",
   "author": {
-    "name": "Łukasz Walukiewicz",
-    "email": "lukasz@walukiewicz.eu",
-    "url": "http://lukasz.walukiewicz.eu/"
+    "name": "tisone",
+    "email": "tisone@this1.it",
+    "url": "http://this1.it/"
   },
-  "bugs": "https://github.com/morkai/messageformat-amd/issues",
+  "bugs": "https://github.com/tisone/messageformat-amd/issues",
   "repository": {
     "type": "git",
-    "url": "http://github.com/morkai/messageformat-amd.git"
+    "url": "http://github.com/tisone/messageformat-amd.git"
   },
-  "engine": ["node ~0.10.33"],
+  "engine": [
+    "node >=0.8"
+  ],
   "main": "./lib/index",
   "dependencies": {
     "messageformat": "~0.2.1"
