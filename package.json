@@ -1,8 +1,13 @@
 {
   "name": "messageformat-amd",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Connect/Express middleware to serve MessageFormat JSON files as AMD JS files to the browser.",
-  "keywords": ["messageformat", "amd", "connect", "middleware"],
+  "keywords": [
+    "messageformat",
+    "amd",
+    "connect",
+    "middleware"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/tisone/messageformat-amd",
   "author": {
